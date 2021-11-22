@@ -13,7 +13,7 @@ class OlaMundoController
 
   public function olamundoAction()
   {
-    echo 'Ola Mundo pau no cu de bom';
+    echo 'Ola Mundo';
     exit();
   }
 }
